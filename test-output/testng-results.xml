@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-04-07T16:48:50 IST" name="Default suite" finished-at="2026-04-07T16:48:58 IST" duration-ms="8246">
+    <groups>
+    </groups>
+    <test started-at="2026-04-07T16:48:50 IST" name="Default test" finished-at="2026-04-07T16:48:58 IST" duration-ms="8246">
+      <class name="Arr2.Mainclass">
+        <test-method is-config="true" signature="launch1()[pri:0, instance:Arr2.Mainclass@22ff4249]" started-at="2026-04-07T16:48:50 IST" name="launch1" finished-at="2026-04-07T16:48:56 IST" duration-ms="6048" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch1 -->
+        <test-method signature="prime()[pri:0, instance:Arr2.Mainclass@22ff4249]" started-at="2026-04-07T16:48:56 IST" name="prime" finished-at="2026-04-07T16:48:58 IST" duration-ms="2122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prime -->
+      </class> <!-- Arr2.Mainclass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
